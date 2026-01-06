@@ -1,0 +1,110 @@
+[
+  {
+    "n": 1,
+    "url": "https://www.desmos.com/calculator/vxq5sxkp4c",
+    "name": "Зекенова Еркежан",
+    "classLabel": "8М",
+    "group": "2",
+    "title": "Симметричный узор на координатной плоскости",
+    "desc": "Построен симметричный узор на координатной плоскости с помощью графиков функций. Основу составляют линейные функции y=kx+b, функция y=√x применена для плавных элементов. Симметрия — отражение относительно оси y."
+  },
+  {
+    "n": 2,
+    "url": "https://www.desmos.com/Calculator/mjhmodjwnl?lang=ru",
+    "name": "Мырзахан Жансұлтан",
+    "classLabel": "9Н",
+    "group": "2",
+    "title": "Графическая композиция",
+    "desc": ""
+  },
+  {
+    "n": 3,
+    "url": "https://www.desmos.com/calculator/bjuxwq61ha",
+    "name": "Тоқанова Ақерке",
+    "classLabel": "9Н",
+    "group": "3",
+    "title": "График-арт",
+    "desc": ""
+  },
+  {
+    "n": 4,
+    "url": "https://www.desmos.com/calculator/m1dqbiegq6?lang=ru",
+    "name": "Ануарбекқызы Айман",
+    "classLabel": "9Н",
+    "group": "3",
+    "title": "Графический рисунок",
+    "desc": ""
+  },
+  {
+    "n": 5,
+    "url": "https://www.desmos.com/calculator/nt2rjkzgds?lang=ru",
+    "name": "Бекжан",
+    "classLabel": "8В",
+    "group": "1",
+    "title": "Композиция в Desmos",
+    "desc": ""
+  },
+  {
+    "n": 6,
+    "url": "https://www.desmos.com/calculator/anadssv9fd?lang=ru",
+    "name": "Қалибекұлы Төрежан",
+    "classLabel": "12А",
+    "group": "1",
+    "title": "Сложная модель",
+    "desc": ""
+  },
+  {
+    "n": 7,
+    "url": "https://www.desmos.com/calculator/shpfjmfcz4",
+    "name": "Қуанбай Нұрхан",
+    "classLabel": "9Н",
+    "group": "1",
+    "title": "Графическая работа",
+    "desc": ""
+  },
+  {
+    "n": 8,
+    "url": "https://www.desmos.com/calculator/41zbtimqaj?lang=ru",
+    "name": "Сахариянов Мансұр",
+    "classLabel": "8А",
+    "group": "3",
+    "title": "График и сюжет",
+    "desc": ""
+  },
+  {
+    "n": 9,
+    "url": "https://www.desmos.com/calculator/4ey2dgwg97?lang=ru",
+    "name": "Сахов Амирхан",
+    "classLabel": "9N",
+    "group": "2",
+    "title": "График без названия",
+    "desc": ""
+  },
+  {
+    "n": 10,
+    "url": "https://www.desmos.com/calculator/lpe4ibbwak?lang=ru",
+    "name": "Бақберген Сырым",
+    "classLabel": "11Н",
+    "group": "",
+    "title": "Проект (11 класс)",
+    "desc": ""
+  },
+  {
+    "n": 11,
+    "url": "https://www.desmos.com/calculator/b5ypte30cd?lang=ru",
+    "name": "Даутқазы Надия",
+    "classLabel": "11Н",
+    "group": "",
+    "title": "Проект (11 класс)",
+    "desc": ""
+  },
+  {
+    "n": 12,
+    "url": "https://www.desmos.com/calculator/wvboin0t0u?lang=ru",
+    "name": "Бақытжан Дінмұхамед",
+    "classLabel": "10G",
+    "group": "",
+    "title": "Проект (10 класс)",
+    "desc": ""
+  }
+]
